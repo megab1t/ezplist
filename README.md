@@ -7,3 +7,10 @@ The script automates the simple steps required to find and view all plist files 
 There is an option to save the output to an xml file for later viewing.
 
 Please let me know of any issues or suggestions.
+
+
+Instructions:
+
+Clone this repo
+
+python3 ezplist.py <ipa file> 
