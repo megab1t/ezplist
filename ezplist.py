@@ -44,7 +44,7 @@ def view_plist_file(plist_file):
                 print(f"XML output saved to {save_file}")
 
 def cleanup(zip_file):
-    # Delete the 'Payload' folder
+    # Delete the 'Payload' folder.
     shutil.rmtree('Payload')
 
     # Rename the zip file back to an IPA file
